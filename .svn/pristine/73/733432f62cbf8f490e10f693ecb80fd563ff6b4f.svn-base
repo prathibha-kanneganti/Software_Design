@@ -1,0 +1,19 @@
+Assignment# 2
+COSC 6353/4353
+
+Assignment Date: October 11, 2015
+
+Due Date: 10/19/2014 23:59:59
+
+Problem Statement: 
+------------------
+Implement hw2 problem. You can pick any programming language, design pattern, framework, and tools of your choice.
+
+Questions:
+- Discuss your experience working in pair.
+
+	It was nice working in pairs beacause the work is being divided between us equally. Also,we are able to make things happen in a less time. Most importantly,we get to know each other thoughts and thus learn from each other mutually. We found working in pair very useful.
+
+- Did your design changed from HW2? Why?
+
+	Yes, the design that we had mentioned in hw2 was changed slightly. The initial design had more number of classes and methods, which when used test driven development in assignment 2 , were reduced significantly. With this change in the design, a better design of code was obtained and was made sure that there were no code smells.

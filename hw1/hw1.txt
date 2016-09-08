@@ -1,0 +1,53 @@
+Homework #1
+COSC 6353 / 4353
+
+Assignment Date: September 07, 2015
+Due Date: September 15, 2015
+
+Description: 
+In this homework we will come up with an initial design for a program. 
+We will not be writing any code in this homework, but only looking at some initial design ideas.
+
+Design an application that will perform the following actions:
+1.	Prompt the user and read in user date of birth in (mm/dd/yyyy) format.
+2.	Print out following summary from the date of birth:
+	- What day of the week they were born? e.g. "You were born on a Friday."
+	- Their Zodiac sign. e.g. "Your zodiac sign is capricorn."
+
+Answer these questions:
+
+1. How would you design this program?
+	We would like to follow the Software Development Lifecycle (SDLC). I would choose waterfall model. It contains various stages like requirements gathering, design and coding and testing. 
+	•	Requirements gathering: In this phase, we gather all the prerequisites for the program such as inputs etc.
+	•	Design: Design phase mainly contains writing the algorithm for the given case. 
+	•	Coding: This phase involves writing the actual code for the given scenario.
+	•	Testing: This phase involves writing the test cases. Then the program is executed to validate and verify if it meets the requirements, if it satisfies the given scenario.
+
+
+2. Discuss what programming language you would use.
+	We would like to use C# for coding this scenario. C# has namespaces which contain simple methods, by the use of which we can extract the day of week easily without coding numerous lines.  
+
+3. How you'd structure the program, what libraries you'd use?
+	The algorithm for the given case is as follows:
+	Assign Zodiac signs for certain date interval of months of the year
+	Input date
+	Input month
+	Get current year
+	Check whether the inputs form a valid date
+	Convert the inputs to a DateTime format
+	If valid date
+		Then
+	Get the day of the week
+	Print day
+	Check where the retrieved date falls into which category
+	Else
+	Invalid Date;
+
+	The following libraries will be included in the program:
+	•	System namespace: It contains all the basic classes console, Convert, string.
+	•	System.Globalization namespace: It contains the specific culture formats to convert the given inputs into a valid datetime format.
+NUnit: We would use NUnit framework for automated testing of the code.
+
+Include a separate file (may be a scan of hand drawn picture if you like, or a PDF, tiff, word document, etc.) which shows a UML diagram of your design.
+
+

@@ -1,0 +1,13 @@
+Assignment #1
+COSC 6353 / 4353
+
+Assignment Date: September 15, 2015 23:59:59
+Due Date: September 22, 2015 23:59:59
+
+Description: 
+In this assignment we'll use test first development to create the program we discussed in homework 1.
+Follow test first coding, don't write any code unless a failing test demands it. Write minimum code to make tests pass. Start early and take very small steps. 
+Keep your tests passing at all times. Keep the design lightweight and the code quality high.
+
+After the implementation is complete, compare the design created in Assignment 1 with the design you described in Homework 1.
+YOUR ANSWER GOES HERE
